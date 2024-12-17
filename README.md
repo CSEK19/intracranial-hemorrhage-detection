@@ -81,7 +81,7 @@ Results are summarized across three datasets:
 2. Explore advanced dimensionality reduction techniques like ICA.
 3. Investigate frequency-domain transformations (e.g., FFT) to enhance feature extraction and model accuracy.
 
-For detailed insights into methodology and results, refer to *Paper.pdf* in the Documentation folder.
+For detailed insights into methodology and results, refer to `Paper.pdf`.
 
 ---
 
