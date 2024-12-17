@@ -1,0 +1,30 @@
+Accuracy of RUSBoost: 95.26%
+Confusion Matrix for RUSBoost:
+          58          13
+          57        1350
+
+Confusion Matrix for AdaBoost:
+          27          44
+          13        1394
+
+Accuracy of AdaBoost: 96.14%
+Confusion Matrix for LogitBoost:
+          19          52
+          16        1391
+
+Accuracy of LogitBoost: 95.40%
+Confusion Matrix for Neural Network:
+           1          70
+           0        1407
+
+Accuracy of Neural Network: 95.26%
+Confusion Matrix for SVM:
+          65           6
+         250        1157
+
+Accuracy of SVM: 82.68%
+Confusion Matrix for Gaussian Naive Bayes:
+    60    11
+   806   601
+
+Accuracy of Gaussian Naive Bayes: 44.72%
