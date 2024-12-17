@@ -36,14 +36,14 @@ MATLAB scripts for training and evaluating models:
 ## **How to Use**
 
 ### **Step 1: Data Preparation**
-1. Load a `.mat` file from the **Dataset** folder into MATLAB: `load('Dataset/original.mat');`
+1. Load a `.mat` file from the `Dataset` folder into MATLAB: `load('Dataset/original.mat');`
 2. Perform additional preprocessing if needed (e.g., normalization).
 
 ### **Step 2: Model Training**
 Run any script to train a specific model. For example: `run('AdaBoostModel.m');`
 
 ### **Step 3: Results Analysis**
-Review the Excel files in the **Outputs** folder to compare performance metrics such as accuracy, precision, recall, and F1-score across datasets and models.
+Review the Excel files in the `Outputs` folder to compare performance metrics such as accuracy, precision, recall, and F1-score across datasets and models.
 
 ## **Key Features of Each Script**
 
